@@ -1,0 +1,13 @@
+Número 1: 0 sequência(s)
+Número 2: 0 sequência(s)
+Número 3: 1 sequência(s)
+Número 4: 0 sequência(s)
+Número 5: 1 sequência(s)
+Número 6: 1 sequência(s)
+Número 7: 1 sequência(s)
+Número 8: 0 sequência(s)
+Número 9: 2 sequência(s)
+Número 10: 1 sequência(s)
+
+Número com mais sequências possíveis: 9 (2 sequência(s))
+Tempo de execução: 0 milissegundos (0.000 segundos)
